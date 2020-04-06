@@ -1,4 +1,4 @@
-package com.vivospice.roomdemo
+package com.vivospice.ViewModelDemo
 
 import org.junit.Test
 
